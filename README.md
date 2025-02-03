@@ -1,1 +1,3 @@
-# erc20_wallet_generate
+pip3 install -r requirements.txt
+
+python >= 3.11.5
